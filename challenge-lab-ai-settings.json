@@ -1,0 +1,6 @@
+{
+  "provider": "openai",
+  "apiKey": "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",
+  "model": "gpt-4o",
+  "ollamaBaseUrl": "http://localhost:11434"
+}

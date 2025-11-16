@@ -1,0 +1,69 @@
+Convert this into a Challenge Lab
+
+
+Scan this document and provide me with Official Microsoft Advanced Hint links in Challenge Lab format. Match them to the associated Task.
+
+Every :::ShowAdvanced section needs to follow this wording: 
+
+:::ShowAdvanced(ShowAdvanced=Yes) 
+>[!knowledge] Want to learn more? Review the documentation on [REPLACE1]( https://git-scm.com/docs "REPLACE2"). ::: 
+
+Where it says "REPLACE1", replace the text with a reference to the Task it relates to. 
+Where it says "REPLACE2", replace the text with the Name of the document or article it links to.. 
+You will replace the sample link I supplied with the actual link you discovered.
+Check for broken links and replace them before delivery.
+
+rewrite in this format: 
+
+:::ShowAdvanced(ShowAdvanced=Yes) 
+>[!knowledge] Want to learn more? Review the documentation on [creating Task #](https://docs.microsoft.com/ "Create Task # Guidance"). 
+:::
+
+
+
+
+Each Guided hint header now reads:
+>[+hint] Expand this hint for guidance on [task reference]
+
+Sentence case task references (Option A).
+
+All prior formatting, advanced sections, and wording preserved.
+
+
+
+
+replace all instances of ">1." with ">-". Repeat with any other similiar numbers as well. Replace the word "Click" and "Press" with the word "Select".
+
+
+Where ever you see "Expand this hint for guidance on..." , replace "..." with a reference to the Task it relates to. Like we did for the Advanced Hints.
+
+
+Anywhere we see ">-Run:", replace it with ">-Run the following command:"
+
+
+
+
+The overview will begin with:
+
+You are a @lab.Variable(GlobalDeveloper) at @lab.Variable(GlobalCompany)
+
+
+whenever 2 lines are one after the other like this: >- Create a folder named copilot_docs/. >- Open it in **VS Code**. Can you add a space like this: >- Create a folder named copilot_docs/. > >- Open it in **VS Code**.
+
+
+when you see this:
+
+:::
+:::ShowAdvanced(ShowAdvanced=Yes)
+
+Change to this:
+
+:::
+
+
+:::ShowAdvanced(ShowAdvanced=Yes)
+
+
+
+
+Remove all references to a "Requirement #" and "Task #"

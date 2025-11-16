@@ -1,0 +1,13 @@
+# Gemini API Key (default)
+GEMINI_API_KEY=AIzaSyD3usj6hOk2p9ljXDfbruxVxMsIIx2j9fE
+
+# Optional: OpenAI API Key
+OPENAI_API_KEY=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
+
+# Ollama doesn't require an API key (runs locally)
+# OLLAMA_API_KEY=0e744ceeeb964baa87333006110c4c25.sw_3Ieazr7K4N1JBoriHRa7N
+
+
+# run the app
+# node node_modules/vite/bin/vite.js
+

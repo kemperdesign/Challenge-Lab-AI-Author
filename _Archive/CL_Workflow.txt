@@ -1,0 +1,16 @@
+WORKFLOW:
+
+01. Create a Lab Series
+02. Create steps for each task
+03. Apply Challenge Format
+04. Create Sample Data
+05. Insert Help, Notes, Alerts
+06. Convert Steps to Guided Hints
+07. Create Advanced Hints
+08. Improve Requirement and Task wording
+09. Create a Challenge Lab Title and update the Overview
+10. Create Summary Objectives
+11. Scripting
+12. Job Role Mapping
+13. AI Tech Edit
+14. Lab Series Proposal

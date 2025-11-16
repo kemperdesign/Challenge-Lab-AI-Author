@@ -1,0 +1,5 @@
+{
+  "name": "Challenge Lab AI Agent & Script Generator",
+  "description": "A multi-agent AI pipeline that transforms raw instructional text into a structured, formatted Challenge Lab document. Users can input text and sequentially apply transformations from each specialized agent, from initial step generation to final summary creation.",
+  "requestFramePermissions": []
+}
